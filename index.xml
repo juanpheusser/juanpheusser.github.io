@@ -5,6 +5,25 @@
     <link>https://juanpheusser.github.io/</link>
     <description>Recent content on Juan P. Heusser</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://juanpheusser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2023 14:14:29 -0500</lastBuildDate><atom:link href="https://juanpheusser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://juanpheusser.github.io/about/</link>
+      <pubDate>Sun, 09 Jul 2023 14:38:18 -0500</pubDate>
+      
+      <guid>https://juanpheusser.github.io/about/</guid>
+      <description>Hello World </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://juanpheusser.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 09 Jul 2023 14:14:29 -0500</pubDate>
+      
+      <guid>https://juanpheusser.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

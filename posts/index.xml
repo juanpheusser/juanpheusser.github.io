@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Juan P. Heusser</title>
-    <link>https://juanpheusser.github.io/posts/</link>
+    <link>https://juanheusser.com/posts/</link>
     <description>Recent content in Posts on Juan P. Heusser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 14:14:29 -0500</lastBuildDate><atom:link href="https://juanpheusser.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 14:14:29 -0500</lastBuildDate><atom:link href="https://juanheusser.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://juanpheusser.github.io/posts/my-first-post/</link>
+      <link>https://juanheusser.com/posts/my-first-post/</link>
       <pubDate>Sun, 09 Jul 2023 14:14:29 -0500</pubDate>
       
-      <guid>https://juanpheusser.github.io/posts/my-first-post/</guid>
+      <guid>https://juanheusser.com/posts/my-first-post/</guid>
       <description></description>
     </item>
     
